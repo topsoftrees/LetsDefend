@@ -5,4 +5,4 @@ Capture the Flags from IR platform, LetsDefend.io
 2. SOC104 - Malware Detected - Case 84 - _Pass_
 3. SOC134 - Suspicious WMI Activity - Case 81 - _Fail & pending response_
 4. SOC139 - Meterpreter or Empire Activity - Case 78 - _Pass_
-5. SOC144 - New scheduled task created - Case 91
+5. SOC146 - Phishing Mail Detected - Excel 4.0 Macros - Case 93
