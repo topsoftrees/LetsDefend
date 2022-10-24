@@ -61,6 +61,8 @@ Given the time of the alert and no known source of a logic bomb, reporting as a 
 I failed the case, it's actually a true positive. My questions- how did it get onto the Exchange Server? Does Device Action mean it's been cleaned by an AV making any info on the Exchange Server ambiguous?
 Went to https://app.any.run/tasks/6ed0a328-8f35-41b0-8980-3e23a23f3bea/ to see the sandbox version of the hash, it shuts off the machine. I've reached out to other user's of LetsDefend for clarification on this. Is it a true positive because an AV would get rid of any trace of it and not because we could find a trace of it? 
 
+Edit: LetsDefend confirmed this is a false positive. 
+
 ## Helpful Websites
 - net: https://linux.die.net/man/8/net
 - Samba: https://ubuntu.com/server/docs/samba-file-server
