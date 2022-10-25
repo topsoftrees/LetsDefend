@@ -9,3 +9,4 @@ Capture the Flags from IR platform, LetsDefend.io
 6. SOC173 - Follina 0-Day Detected - Case 123
 7. SOC105 - Requested T.I. URL address - Case 75 - _Fail & pending response_
 8. SOC170 - Passwd Found in Requested URL - Case 120
+9. SOC164 - Suspicious Mshta Behavior - Case 114
