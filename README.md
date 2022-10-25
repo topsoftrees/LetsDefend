@@ -10,3 +10,4 @@ Capture the Flags from IR platform, LetsDefend.io
 7. SOC105 - Requested T.I. URL address - Case 75 - _Fail & pending response_
 8. SOC170 - Passwd Found in Requested URL - Case 120
 9. SOC164 - Suspicious Mshta Behavior - Case 114
+10. SOC175 - PowerShell Found in Requested URL - Case 125
