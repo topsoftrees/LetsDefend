@@ -47,7 +47,7 @@ No emails found relating this this source addressed. Unknown how this was access
 False Positive, unknown how https://172.16.17.13/?file=../../../../etc/passwd was triggered on this Endpoint. Either way, 106.55.45.162 was unsuccessful in retrieving user password per HTTP 500 code (server error).
 System was not compromised. 
 
-Reporting as True Postive and confirmed the endpoint wasn't compromised. Reached out to LetsDefend to see how this is a True Positive since the device wasn't compromised. Are we just saying it did access the site or analyzing if this is compromised? 
+Reporting as True Postive and confirmed the endpoint wasn't compromised. Reached out to LetsDefend to see how this is a True Positive since the device wasn't compromised. Are we just saying it did access the site or analyzing if this is compromised? Received confirmation this is a true positive as there was detection of a passwd found in the URL not that it was actually compromised. 
 
 ## Helpful Links
 - **VirusTotal:** https://www.virustotal.com/gui
