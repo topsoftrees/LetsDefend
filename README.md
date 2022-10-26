@@ -11,3 +11,18 @@ Capture the Flags from IR platform, LetsDefend.io
 8. SOC170 - Passwd Found in Requested URL - Case 120
 9. SOC164 - Suspicious Mshta Behavior - Case 114
 10. SOC175 - PowerShell Found in Requested URL - Case 125
+11. SOC138 - Detected Suspicious Xls File - Case 77
+
+
+
+
+
+
+
+
+
+AnyRun
+VirusTotal
+URLHouse
+URLScan
+HybridAnalysis
