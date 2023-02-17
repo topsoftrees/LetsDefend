@@ -1,6 +1,6 @@
 # SOC119 - Proxy - Malicious Executable File Detected
 
-We recieved a Medium alert for a malicious executable file detection. 
+We received a Medium alert for a malicious executable file detection. 
 
 > **EventID:** 79
 > 
